@@ -1,0 +1,7 @@
+.dropdown{
+    position: relative;
+    float: right;
+  }
+  .open .dropdown-menu {
+        display: initial !important;
+    }
